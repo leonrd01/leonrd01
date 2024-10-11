@@ -14,7 +14,7 @@
 ---    
 ### Skils :computer: : 
 #
-#### Linguagens
+#### Linguagens :moyai:
 
 <p aling="center">
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" />
@@ -24,7 +24,7 @@
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" />
 </p>       
 
-#### Ferramentas e Plataformas de Desenvolvimento
+#### Ferramentas e Plataformas de Desenvolvimento :wrench:
 
 <p aling="center">
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="50" height="50" />
@@ -36,7 +36,7 @@
 
 </p>  
 
-#### Estou Estudando Mais Sobre
+#### Estou Estudando Mais Sobre :books:
 
 <p aling="center">
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
@@ -45,8 +45,16 @@
 
 </p>  
 
-
 ---
+
+### Contato e Redes Sociais :small_red_triangle_down:
+
+<p aling="center">
+    <a href="https://wa.me/qr/CFLQBRD37VUWM1" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a> 
+    <a href="www.linkedin.com/in/leonardo-pinho-dos-santos-ba47682b7" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+</p>  
+
+#### Email :mailbox_with_mail: : leotubee@outlook.com
           
                        
     
