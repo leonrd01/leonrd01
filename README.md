@@ -55,6 +55,14 @@
 </p>  
 
 #### Email :mailbox_with_mail: : leotubee@outlook.com
+
+---
+
+<div>
+<a href="https://github.com/leonrd01">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonrd01&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=leonrd01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
           
                        
     
