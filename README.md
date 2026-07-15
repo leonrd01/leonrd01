@@ -99,6 +99,6 @@ Meu diferencial está na combinação entre **lógica de desenvolvimento**, **vi
 
 <div align="center">
 
-*Feito com 💙 por Leonardo Pinho | Salvador, BA*
+*Por Leonardo Pinho | Salvador, BA*
 
 </div>
